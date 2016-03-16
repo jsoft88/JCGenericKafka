@@ -5,3 +5,6 @@ It may be used to create custom producers and consumers, by extending base abstr
 <br/>
 
 Take a look at the project <a href="https://github.com/jsoft88/JCAvroToKudu">JCAvroToKudu</a> to see how this generic kafka library was used in an application dedicated to copying data from avro files into a kudu table.
+<br/>
+
+A fat jar file is included under /store directory.
